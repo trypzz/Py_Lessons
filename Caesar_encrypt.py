@@ -1,3 +1,4 @@
+#askjdklasdja
 b = int(input())
 st = input().strip()
 alf = ' abcdefghijklmnopqrstuvwxyz'
